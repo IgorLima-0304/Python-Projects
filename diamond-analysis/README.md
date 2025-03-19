@@ -101,7 +101,7 @@ Se você deseja disponibilizar o projeto em um servidor web ou plataforma de nuv
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@IgorLimaCarvalho](https://github.com/IgorLimaCarvalho) - Desenvolvedor e Autor
+- [Igor Lima Carvalho](https://github.com/IgorLima-0304) - Desenvolvedor e Autor
 
 Veja também a lista de [contribuidores](https://github.com/IgorLimaCarvalho/diamond-analysis/contributors) que participaram neste projeto.
 
